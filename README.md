@@ -2,7 +2,7 @@
 
 ## How to access the tutorial on collab
 
-To access the tutorial, [click me!](https://colab.research.google.com/github/OllieBurke/EMRI_Workshop/blob/main/docs/Auckland_Workshop.ipynb)
+To access the tutorial, [click me!](https://colab.research.google.com/github/alvincjk/EMRI_Workshop/blob/main/docs/SSI_Workshop.ipynb)
 
 If you were successfull, you should have made it to a google collab notebook.
 
